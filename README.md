@@ -1,2 +1,2 @@
-# recipe
-Intro Library demo lesson of GitHub for sharing a recipe
+# Recipes
+Intro Library demo lesson of GitHub for sharing three avocado-based recipes
